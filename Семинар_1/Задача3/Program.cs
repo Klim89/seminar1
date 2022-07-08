@@ -11,6 +11,6 @@ int Power(int currentNumber)
     return currentNumber * currentNumber;
 }
 
+Console.WriteLine("Тут будет число 16. Смотрим: " + Power(4));
 
 
-Zadacha5()
