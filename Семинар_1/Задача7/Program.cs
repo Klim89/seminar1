@@ -14,9 +14,9 @@ void Zadacha07()
     else
     {
     Console.WriteLine(number2 + " - не является кратным" + " " + number1);
+    Console.WriteLine(div);
     }   
 
-    Console.WriteLine(div);
 }
 
 Zadacha07();
